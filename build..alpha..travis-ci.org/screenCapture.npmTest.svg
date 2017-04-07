@@ -1,12 +1,12 @@
-<svg height="4526" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="4526" fill="#555" width="720"></rect>
+<svg height="4542" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="4542" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
 <tspan x="10" y="42">&gt; npmdoc-shader-school@0.0.1 test /home/travis/build/npmdoc/node-npmdoc-shader-school</tspan>
 <tspan x="10" y="58">&gt; (set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90"></tspan>
-<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-07T11:58:54Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
+<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-07T12:02:11Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
 <tspan x="10" y="122">shader-school</tspan>
 <tspan x="10" y="138"></tspan>
 <tspan x="10" y="154"></tspan>
@@ -14,7 +14,7 @@
 <tspan x="10" y="186">c-shader-school/test.js</tspan>
 <tspan x="10" y="202">merging file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/test-report.json to\</tspan>
 <tspan x="10" y="218"> test-report</tspan>
-<tspan x="10" y="234">&gt; server listening on http-port 53711</tspan>
+<tspan x="10" y="234">&gt; server listening on http-port 58137</tspan>
 <tspan x="10" y="250"></tspan>
 <tspan x="10" y="266"> ==============================</tspan>
 <tspan x="10" y="282"> = ~~~~~ shader-school ~~~~~~ =</tspan>
@@ -24,14 +24,14 @@
 <tspan x="10" y="346"></tspan>
 <tspan x="10" y="362"></tspan>
 <tspan x="10" y="378">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-shader-school/tm\</tspan>
-<tspan x="10" y="394">p/electron.15b484814af0.72e52dc42d5e5.html</tspan>
+<tspan x="10" y="394">p/electron.15b484b17070.44ae2dd6d4eb7.html</tspan>
 <tspan x="10" y="410"></tspan>
 <tspan x="10" y="426">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
 <tspan x="10" y="442">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
 <tspan x="10" y="458">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
 <tspan x="10" y="474"></tspan>
 <tspan x="10" y="490">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-shader-school/tm\</tspan>
-<tspan x="10" y="506">p/electron.15b484814de0.eef2753640d1d.html</tspan>
+<tspan x="10" y="506">p/electron.15b484b17390.920f57da286ec.html</tspan>
 <tspan x="10" y="522"></tspan>
 <tspan x="10" y="538">[?] We're about to populate this directory with some code for you to use for</tspan>
 <tspan x="10" y="554">    your answers. If they've already been created then don't worry, they won't</tspan>
@@ -40,247 +40,248 @@
 <tspan x="10" y="602">merging file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/test-report.json to\</tspan>
 <tspan x="10" y="618"> test-report</tspan>
 <tspan x="10" y="634">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="650">[5538:0407/115855:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="666">[5538:0407/115855:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="650">[8713:0407/120212:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="666">[8713:0407/120212:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
 <tspan x="10" y="682">merging file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/test-report.json to\</tspan>
 <tspan x="10" y="698"> test-report</tspan>
-<tspan x="10" y="714">[5562:0407/115855:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="714">[8738:0407/120212:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
 <tspan x="10" y="730">in process gpu-process. </tspan>
 <tspan x="10" y="746">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="762">[5537:0407/115855:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="778">[5537:0407/115855:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="794">[5538:0407/115855:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
-<tspan x="10" y="810">[5584:0407/115855:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="762">[8717:0407/120213:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="778">[8717:0407/120213:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="794">[8713:0407/120213:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="810">[8760:0407/120213:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
 <tspan x="10" y="826">in process gpu-process. </tspan>
-<tspan x="10" y="842"></tspan>
-<tspan x="10" y="858">browserTest - opened url http://127.0.0.1:53711?modeTest=1</tspan>
-<tspan x="10" y="874"></tspan>
-<tspan x="10" y="890"></tspan>
-<tspan x="10" y="906">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/apidoc.ht\</tspan>
-<tspan x="10" y="922">ml</tspan>
-<tspan x="10" y="938"></tspan>
-<tspan x="10" y="954">[5538:0407/115857:INFO:CONSOLE(250)] "----------|-----------|-----------|-----------|-----------\</tspan>
-<tspan x="10" y="970">|</tspan>
-<tspan x="10" y="986">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
-<tspan x="10" y="1002">----------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="842">[8717:0407/120213:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="858"></tspan>
+<tspan x="10" y="874">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/apidoc.ht\</tspan>
+<tspan x="10" y="890">ml</tspan>
+<tspan x="10" y="906"></tspan>
+<tspan x="10" y="922"></tspan>
+<tspan x="10" y="938">browserTest - opened url http://127.0.0.1:58137?modeTest=1</tspan>
+<tspan x="10" y="954"></tspan>
+<tspan x="10" y="970">[8717:0407/120214:INFO:CONSOLE(250)] "----------|-----------|-----------|-----------|-----------\</tspan>
+<tspan x="10" y="986">|</tspan>
+<tspan x="10" y="1002">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
 <tspan x="10" y="1018">----------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="1034">All files |       100 |       100 |       100 |       100 |</tspan>
-<tspan x="10" y="1050">----------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="1066">", source: file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/electron.15b484814de0.\</tspan>
-<tspan x="10" y="1082">eef2753640d1d.html (250)</tspan>
-<tspan x="10" y="1098">[5538:0407/115857:INFO:CONSOLE(250)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
-<tspan x="10" y="1114">l", source: file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/electron.15b484814de0\</tspan>
-<tspan x="10" y="1130">.eef2753640d1d.html (250)</tspan>
-<tspan x="10" y="1146"></tspan>
-<tspan x="10" y="1162">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
-<tspan x="10" y="1178">mp/build/screenCapture.npmTest.browser..png</tspan>
-<tspan x="10" y="1194"></tspan>
-<tspan x="10" y="1210">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
-<tspan x="10" y="1226">mp/build/screenCapture.npmTest.browser..html</tspan>
-<tspan x="10" y="1242"></tspan>
-<tspan x="10" y="1258">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
-<tspan x="10" y="1274">mp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-shader-sc\</tspan>
-<tspan x="10" y="1290">hool_2Ftmp_2Fbuild_2Fapidoc.html.png</tspan>
-<tspan x="10" y="1306"></tspan>
-<tspan x="10" y="1322"></tspan>
-<tspan x="10" y="1338">browserTest - exit-code 0 - http://127.0.0.1:53711?modeTest=1</tspan>
+<tspan x="10" y="1034">----------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="1050">All files |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="1066">----------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="1082">", source: file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/electron.15b484b17390.\</tspan>
+<tspan x="10" y="1098">920f57da286ec.html (250)</tspan>
+<tspan x="10" y="1114">[8717:0407/120214:INFO:CONSOLE(250)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
+<tspan x="10" y="1130">l", source: file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/electron.15b484b17390\</tspan>
+<tspan x="10" y="1146">.920f57da286ec.html (250)</tspan>
+<tspan x="10" y="1162"></tspan>
+<tspan x="10" y="1178">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
+<tspan x="10" y="1194">mp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-shader-sc\</tspan>
+<tspan x="10" y="1210">hool_2Ftmp_2Fbuild_2Fapidoc.html.png</tspan>
+<tspan x="10" y="1226"></tspan>
+<tspan x="10" y="1242">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
+<tspan x="10" y="1258">mp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-shader-sc\</tspan>
+<tspan x="10" y="1274">hool_2Ftmp_2Fbuild_2Fapidoc.html.html</tspan>
+<tspan x="10" y="1290"></tspan>
+<tspan x="10" y="1306">browserTest - exit-code 0 - /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/apidoc\</tspan>
+<tspan x="10" y="1322">.html</tspan>
+<tspan x="10" y="1338"></tspan>
 <tspan x="10" y="1354"></tspan>
-<tspan x="10" y="1370"></tspan>
-<tspan x="10" y="1386">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/cover\</tspan>
-<tspan x="10" y="1402">age.npmTest.browser.%2F.json</tspan>
-<tspan x="10" y="1418"></tspan>
-<tspan x="10" y="1434"></tspan>
-<tspan x="10" y="1450">browserTest - merging test-report from /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/t\</tspan>
-<tspan x="10" y="1466">est-report.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="1370">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
+<tspan x="10" y="1386">mp/build/screenCapture.npmTest.browser..png</tspan>
+<tspan x="10" y="1402"></tspan>
+<tspan x="10" y="1418">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
+<tspan x="10" y="1434">mp/build/screenCapture.npmTest.browser..html</tspan>
+<tspan x="10" y="1450"></tspan>
+<tspan x="10" y="1466">browserTest - exit-code 0 - http://127.0.0.1:58137?modeTest=1</tspan>
 <tspan x="10" y="1482"></tspan>
-<tspan x="10" y="1498">[node test-case 4 of 6 passed] - testCase_webpage_default</tspan>
-<tspan x="10" y="1514">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
-<tspan x="10" y="1530">mp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-shader-sc\</tspan>
-<tspan x="10" y="1546">hool_2Ftmp_2Fbuild_2Fapidoc.html.html</tspan>
+<tspan x="10" y="1498"></tspan>
+<tspan x="10" y="1514">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/cover\</tspan>
+<tspan x="10" y="1530">age.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="1546"></tspan>
 <tspan x="10" y="1562"></tspan>
-<tspan x="10" y="1578">browserTest - exit-code 0 - /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/apidoc\</tspan>
-<tspan x="10" y="1594">.html</tspan>
+<tspan x="10" y="1578">browserTest - merging test-report from /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/t\</tspan>
+<tspan x="10" y="1594">est-report.npmTest.browser.%2F.json</tspan>
 <tspan x="10" y="1610"></tspan>
-<tspan x="10" y="1626"></tspan>
-<tspan x="10" y="1642">testCase testCase_buildApidoc_default failed</tspan>
-<tspan x="10" y="1658">onTimeout - timeout-error - 30000 ms - testCase_buildApidoc_default</tspan>
-<tspan x="10" y="1674">Error: onTimeout - timeout-error - 30000 ms - testCase_buildApidoc_default</tspan>
-<tspan x="10" y="1690">    at Timeout._onTimeout (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/util\</tspan>
-<tspan x="10" y="1706">ity2/lib.utility2.js:4139:25)</tspan>
-<tspan x="10" y="1722">    at ontimeout (timers.js:380:14)</tspan>
-<tspan x="10" y="1738">    at tryOnTimeout (timers.js:244:5)</tspan>
-<tspan x="10" y="1754">    at Timer.listOnTimeout (timers.js:214:5)</tspan>
-<tspan x="10" y="1770">Error</tspan>
-<tspan x="10" y="1786">    at Object.local.onTimeout (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/\</tspan>
-<tspan x="10" y="1802">utility2/lib.utility2.js:4136:29)</tspan>
-<tspan x="10" y="1818">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
-<tspan x="10" y="1834">:5423:38</tspan>
-<tspan x="10" y="1850">    at onEach2 (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.ut\</tspan>
-<tspan x="10" y="1866">ility2.js:4051:21)</tspan>
-<tspan x="10" y="1882">    at Object.local.onParallelList (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_mod\</tspan>
-<tspan x="10" y="1898">ules/utility2/lib.utility2.js:4077:13)</tspan>
-<tspan x="10" y="1914">    at Object.local.testRunDefault (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_mod\</tspan>
-<tspan x="10" y="1930">ules/utility2/lib.utility2.js:5378:19)</tspan>
-<tspan x="10" y="1946">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
-<tspan x="10" y="1962">:5319:35</tspan>
-<tspan x="10" y="1978">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
-<tspan x="10" y="1994">:3951:17</tspan>
-<tspan x="10" y="2010">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
-<tspan x="10" y="2026">:4804:29</tspan>
-<tspan x="10" y="2042">    at Array.forEach (native)</tspan>
-<tspan x="10" y="2058">[node test-case 5 of 6 failed] - testCase_buildApidoc_default</tspan>
-<tspan x="10" y="2074"></tspan>
-<tspan x="10" y="2090">testCase testCase_buildApp_default failed</tspan>
-<tspan x="10" y="2106">onTimeout - timeout-error - 30000 ms - testCase_buildApp_default</tspan>
-<tspan x="10" y="2122">Error: onTimeout - timeout-error - 30000 ms - testCase_buildApp_default</tspan>
-<tspan x="10" y="2138">    at Timeout._onTimeout (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/util\</tspan>
-<tspan x="10" y="2154">ity2/lib.utility2.js:4139:25)</tspan>
-<tspan x="10" y="2170">    at ontimeout (timers.js:380:14)</tspan>
-<tspan x="10" y="2186">    at tryOnTimeout (timers.js:244:5)</tspan>
-<tspan x="10" y="2202">    at Timer.listOnTimeout (timers.js:214:5)</tspan>
-<tspan x="10" y="2218">Error</tspan>
-<tspan x="10" y="2234">    at Object.local.onTimeout (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/\</tspan>
-<tspan x="10" y="2250">utility2/lib.utility2.js:4136:29)</tspan>
-<tspan x="10" y="2266">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
-<tspan x="10" y="2282">:5423:38</tspan>
-<tspan x="10" y="2298">    at onEach2 (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.ut\</tspan>
-<tspan x="10" y="2314">ility2.js:4051:21)</tspan>
-<tspan x="10" y="2330">    at Object.local.onParallelList (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_mod\</tspan>
-<tspan x="10" y="2346">ules/utility2/lib.utility2.js:4077:13)</tspan>
-<tspan x="10" y="2362">    at Object.local.testRunDefault (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_mod\</tspan>
-<tspan x="10" y="2378">ules/utility2/lib.utility2.js:5378:19)</tspan>
-<tspan x="10" y="2394">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
-<tspan x="10" y="2410">:5319:35</tspan>
-<tspan x="10" y="2426">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
-<tspan x="10" y="2442">:3951:17</tspan>
-<tspan x="10" y="2458">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
-<tspan x="10" y="2474">:4804:29</tspan>
-<tspan x="10" y="2490">    at Array.forEach (native)</tspan>
-<tspan x="10" y="2506">[node test-case 6 of 6 failed] - testCase_buildApp_default</tspan>
-<tspan x="10" y="2522"></tspan>
-<tspan x="10" y="2538">testCase testCase_buildApidoc_default failed</tspan>
-<tspan x="10" y="2554">callback in testCase testCase_buildApidoc_default called multiple times</tspan>
-<tspan x="10" y="2570">Error: callback in testCase testCase_buildApidoc_default called multiple times</tspan>
-<tspan x="10" y="2586">    at Timeout.onError [as _onTimeout] (/home/travis/build/npmdoc/node-npmdoc-shader-school/node\</tspan>
-<tspan x="10" y="2602">_modules/utility2/lib.utility2.js:5387:42)</tspan>
-<tspan x="10" y="2618">    at ontimeout (timers.js:380:14)</tspan>
-<tspan x="10" y="2634">    at tryOnTimeout (timers.js:244:5)</tspan>
-<tspan x="10" y="2650">    at Timer.listOnTimeout (timers.js:214:5)</tspan>
-<tspan x="10" y="2666">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="2682">File                              |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
-<tspan x="10" y="2698">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="2714">   node-npmdoc-shader-school/     |       100 |       100 |       100 |       100 |</tspan>
-<tspan x="10" y="2730">      example.js                  |       100 |       100 |       100 |       100 |</tspan>
-<tspan x="10" y="2746">      lib.npmdoc_shader_school.js |       100 |       100 |       100 |       100 |</tspan>
-<tspan x="10" y="2762">      test.js                     |       100 |       100 |       100 |       100 |</tspan>
-<tspan x="10" y="2778">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="2794">All files                         |       100 |       100 |       100 |       100 |</tspan>
-<tspan x="10" y="2810">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="2826"></tspan>
-<tspan x="10" y="2842">created coverage file:///home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/shader-\</tspan>
-<tspan x="10" y="2858">school/answers/tmp/build/coverage.html/index.html</tspan>
-<tspan x="10" y="2874">[?25h</tspan>
-<tspan x="10" y="2890"></tspan>
-<tspan x="10" y="2906">merging file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/test-report.json to\</tspan>
-<tspan x="10" y="2922"> test-report</tspan>
-<tspan x="10" y="2938">&gt; server listening on http-port 53711</tspan>
-<tspan x="10" y="2954"></tspan>
-<tspan x="10" y="2970"> ==============================</tspan>
-<tspan x="10" y="2986"> = ~~~~~ shader-school ~~~~~~ =</tspan>
-<tspan x="10" y="3002"> ==============================</tspan>
-<tspan x="10" y="3018"></tspan>
-<tspan x="10" y="3034">created apidoc file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/apidoc.html</tspan>
-<tspan x="10" y="3050"></tspan>
+<tspan x="10" y="1626">[node test-case 4 of 6 passed] - testCase_webpage_default</tspan>
+<tspan x="10" y="1642"></tspan>
+<tspan x="10" y="1658">testCase testCase_buildApidoc_default failed</tspan>
+<tspan x="10" y="1674">onTimeout - timeout-error - 30000 ms - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="1690">Error: onTimeout - timeout-error - 30000 ms - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="1706">    at Timeout._onTimeout (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/util\</tspan>
+<tspan x="10" y="1722">ity2/lib.utility2.js:4139:25)</tspan>
+<tspan x="10" y="1738">    at ontimeout (timers.js:380:14)</tspan>
+<tspan x="10" y="1754">    at tryOnTimeout (timers.js:244:5)</tspan>
+<tspan x="10" y="1770">    at Timer.listOnTimeout (timers.js:214:5)</tspan>
+<tspan x="10" y="1786">Error</tspan>
+<tspan x="10" y="1802">    at Object.local.onTimeout (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/\</tspan>
+<tspan x="10" y="1818">utility2/lib.utility2.js:4136:29)</tspan>
+<tspan x="10" y="1834">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
+<tspan x="10" y="1850">:5423:38</tspan>
+<tspan x="10" y="1866">    at onEach2 (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.ut\</tspan>
+<tspan x="10" y="1882">ility2.js:4051:21)</tspan>
+<tspan x="10" y="1898">    at Object.local.onParallelList (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_mod\</tspan>
+<tspan x="10" y="1914">ules/utility2/lib.utility2.js:4077:13)</tspan>
+<tspan x="10" y="1930">    at Object.local.testRunDefault (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_mod\</tspan>
+<tspan x="10" y="1946">ules/utility2/lib.utility2.js:5378:19)</tspan>
+<tspan x="10" y="1962">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
+<tspan x="10" y="1978">:5319:35</tspan>
+<tspan x="10" y="1994">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
+<tspan x="10" y="2010">:3951:17</tspan>
+<tspan x="10" y="2026">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
+<tspan x="10" y="2042">:4804:29</tspan>
+<tspan x="10" y="2058">    at Array.forEach (native)</tspan>
+<tspan x="10" y="2074">[node test-case 5 of 6 failed] - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="2090"></tspan>
+<tspan x="10" y="2106">testCase testCase_buildApp_default failed</tspan>
+<tspan x="10" y="2122">onTimeout - timeout-error - 30000 ms - testCase_buildApp_default</tspan>
+<tspan x="10" y="2138">Error: onTimeout - timeout-error - 30000 ms - testCase_buildApp_default</tspan>
+<tspan x="10" y="2154">    at Timeout._onTimeout (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/util\</tspan>
+<tspan x="10" y="2170">ity2/lib.utility2.js:4139:25)</tspan>
+<tspan x="10" y="2186">    at ontimeout (timers.js:380:14)</tspan>
+<tspan x="10" y="2202">    at tryOnTimeout (timers.js:244:5)</tspan>
+<tspan x="10" y="2218">    at Timer.listOnTimeout (timers.js:214:5)</tspan>
+<tspan x="10" y="2234">Error</tspan>
+<tspan x="10" y="2250">    at Object.local.onTimeout (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/\</tspan>
+<tspan x="10" y="2266">utility2/lib.utility2.js:4136:29)</tspan>
+<tspan x="10" y="2282">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
+<tspan x="10" y="2298">:5423:38</tspan>
+<tspan x="10" y="2314">    at onEach2 (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.ut\</tspan>
+<tspan x="10" y="2330">ility2.js:4051:21)</tspan>
+<tspan x="10" y="2346">    at Object.local.onParallelList (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_mod\</tspan>
+<tspan x="10" y="2362">ules/utility2/lib.utility2.js:4077:13)</tspan>
+<tspan x="10" y="2378">    at Object.local.testRunDefault (/home/travis/build/npmdoc/node-npmdoc-shader-school/node_mod\</tspan>
+<tspan x="10" y="2394">ules/utility2/lib.utility2.js:5378:19)</tspan>
+<tspan x="10" y="2410">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
+<tspan x="10" y="2426">:5319:35</tspan>
+<tspan x="10" y="2442">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
+<tspan x="10" y="2458">:3951:17</tspan>
+<tspan x="10" y="2474">    at /home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/utility2/lib.utility2.js\</tspan>
+<tspan x="10" y="2490">:4804:29</tspan>
+<tspan x="10" y="2506">    at Array.forEach (native)</tspan>
+<tspan x="10" y="2522">[node test-case 6 of 6 failed] - testCase_buildApp_default</tspan>
+<tspan x="10" y="2538"></tspan>
+<tspan x="10" y="2554">testCase testCase_buildApidoc_default failed</tspan>
+<tspan x="10" y="2570">callback in testCase testCase_buildApidoc_default called multiple times</tspan>
+<tspan x="10" y="2586">Error: callback in testCase testCase_buildApidoc_default called multiple times</tspan>
+<tspan x="10" y="2602">    at Timeout.onError [as _onTimeout] (/home/travis/build/npmdoc/node-npmdoc-shader-school/node\</tspan>
+<tspan x="10" y="2618">_modules/utility2/lib.utility2.js:5387:42)</tspan>
+<tspan x="10" y="2634">    at ontimeout (timers.js:380:14)</tspan>
+<tspan x="10" y="2650">    at tryOnTimeout (timers.js:244:5)</tspan>
+<tspan x="10" y="2666">    at Timer.listOnTimeout (timers.js:214:5)</tspan>
+<tspan x="10" y="2682">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="2698">File                              |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+<tspan x="10" y="2714">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="2730">   node-npmdoc-shader-school/     |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2746">      example.js                  |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2762">      lib.npmdoc_shader_school.js |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2778">      test.js                     |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2794">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="2810">All files                         |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2826">----------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="2842"></tspan>
+<tspan x="10" y="2858">created coverage file:///home/travis/build/npmdoc/node-npmdoc-shader-school/node_modules/shader-\</tspan>
+<tspan x="10" y="2874">school/answers/tmp/build/coverage.html/index.html</tspan>
+<tspan x="10" y="2890">[?25h</tspan>
+<tspan x="10" y="2906"></tspan>
+<tspan x="10" y="2922">merging file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/test-report.json to\</tspan>
+<tspan x="10" y="2938"> test-report</tspan>
+<tspan x="10" y="2954">&gt; server listening on http-port 58137</tspan>
+<tspan x="10" y="2970"></tspan>
+<tspan x="10" y="2986"> ==============================</tspan>
+<tspan x="10" y="3002"> = ~~~~~ shader-school ~~~~~~ =</tspan>
+<tspan x="10" y="3018"> ==============================</tspan>
+<tspan x="10" y="3034"></tspan>
+<tspan x="10" y="3050">created apidoc file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/apidoc.html</tspan>
 <tspan x="10" y="3066"></tspan>
-<tspan x="10" y="3082">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-shader-school/tm\</tspan>
-<tspan x="10" y="3098">p/electron.15b484896390.6d41299b75cf6.html</tspan>
-<tspan x="10" y="3114"></tspan>
-<tspan x="10" y="3130">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
-<tspan x="10" y="3146">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
-<tspan x="10" y="3162">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
-<tspan x="10" y="3178"></tspan>
-<tspan x="10" y="3194">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-shader-school/tm\</tspan>
-<tspan x="10" y="3210">p/electron.15b4848967e0.e53c1b8c433f5.html</tspan>
-<tspan x="10" y="3226"></tspan>
-<tspan x="10" y="3242">[?] We're about to populate this directory with some code for you to use for</tspan>
-<tspan x="10" y="3258">    your answers. If they've already been created then don't worry, they won't</tspan>
-<tspan x="10" y="3274">    be replaced. Continue? (Y/n) Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="3290">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="3306">merging file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/test-report.json to\</tspan>
-<tspan x="10" y="3322"> test-report</tspan>
-<tspan x="10" y="3338">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="3354">[5688:0407/115929:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="3370">[5688:0407/115929:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="3386">[5709:0407/115929:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
-<tspan x="10" y="3402">in process gpu-process. </tspan>
-<tspan x="10" y="3418">[5688:0407/115929:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
-<tspan x="10" y="3434">merging file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/test-report.json to\</tspan>
-<tspan x="10" y="3450"> test-report</tspan>
-<tspan x="10" y="3466">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="3482">[5692:0407/115929:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="3498">[5692:0407/115929:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="3514">[5740:0407/115929:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
-<tspan x="10" y="3530">in process gpu-process. </tspan>
-<tspan x="10" y="3546">[5692:0407/115929:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
-<tspan x="10" y="3562"></tspan>
-<tspan x="10" y="3578">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/apidoc.ht\</tspan>
-<tspan x="10" y="3594">ml</tspan>
-<tspan x="10" y="3610"></tspan>
+<tspan x="10" y="3082"></tspan>
+<tspan x="10" y="3098">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-shader-school/tm\</tspan>
+<tspan x="10" y="3114">p/electron.15b484b990b0.fd0fa586a798.html</tspan>
+<tspan x="10" y="3130"></tspan>
+<tspan x="10" y="3146">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
+<tspan x="10" y="3162">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
+<tspan x="10" y="3178">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
+<tspan x="10" y="3194"></tspan>
+<tspan x="10" y="3210">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-shader-school/tm\</tspan>
+<tspan x="10" y="3226">p/electron.15b484b99440.6b7c2bac10d22.html</tspan>
+<tspan x="10" y="3242"></tspan>
+<tspan x="10" y="3258">[?] We're about to populate this directory with some code for you to use for</tspan>
+<tspan x="10" y="3274">    your answers. If they've already been created then don't worry, they won't</tspan>
+<tspan x="10" y="3290">    be replaced. Continue? (Y/n) Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="3306">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="3322">merging file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/test-report.json to\</tspan>
+<tspan x="10" y="3338"> test-report</tspan>
+<tspan x="10" y="3354">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="3370">[8844:0407/120246:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="3386">[8844:0407/120246:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="3402">[8866:0407/120246:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="3418">in process gpu-process. </tspan>
+<tspan x="10" y="3434">[8844:0407/120246:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="3450">merging file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/test-report.json to\</tspan>
+<tspan x="10" y="3466"> test-report</tspan>
+<tspan x="10" y="3482">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="3498">[8849:0407/120246:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="3514">[8849:0407/120246:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="3530">[8897:0407/120247:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="3546">in process gpu-process. </tspan>
+<tspan x="10" y="3562">[8849:0407/120247:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="3578"></tspan>
+<tspan x="10" y="3594">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/apidoc.ht\</tspan>
+<tspan x="10" y="3610">ml</tspan>
 <tspan x="10" y="3626"></tspan>
-<tspan x="10" y="3642">browserTest - opened url http://127.0.0.1:53711?modeTest=1</tspan>
-<tspan x="10" y="3658"></tspan>
-<tspan x="10" y="3674">&gt; server listening on http-port 56712</tspan>
-<tspan x="10" y="3690">[node test-case 4 of 6 passed] - testCase_buildApp_default</tspan>
-<tspan x="10" y="3706"></tspan>
-<tspan x="10" y="3722">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
-<tspan x="10" y="3738">mp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-shader-sc\</tspan>
-<tspan x="10" y="3754">hool_2Ftmp_2Fbuild_2Fapidoc.html.png</tspan>
-<tspan x="10" y="3770"></tspan>
-<tspan x="10" y="3786">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
-<tspan x="10" y="3802">mp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-shader-sc\</tspan>
-<tspan x="10" y="3818">hool_2Ftmp_2Fbuild_2Fapidoc.html.html</tspan>
-<tspan x="10" y="3834"></tspan>
-<tspan x="10" y="3850">browserTest - exit-code 0 - /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/apidoc\</tspan>
-<tspan x="10" y="3866">.html</tspan>
-<tspan x="10" y="3882"></tspan>
-<tspan x="10" y="3898">[node test-case 5 of 6 passed] - testCase_buildApidoc_default</tspan>
-<tspan x="10" y="3914"></tspan>
-<tspan x="10" y="3930">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
-<tspan x="10" y="3946">mp/build/screenCapture.npmTest.browser..png</tspan>
-<tspan x="10" y="3962"></tspan>
-<tspan x="10" y="3978">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
-<tspan x="10" y="3994">mp/build/screenCapture.npmTest.browser..html</tspan>
-<tspan x="10" y="4010"></tspan>
-<tspan x="10" y="4026">browserTest - exit-code 0 - http://127.0.0.1:53711?modeTest=1</tspan>
-<tspan x="10" y="4042"></tspan>
+<tspan x="10" y="3642"></tspan>
+<tspan x="10" y="3658">browserTest - opened url http://127.0.0.1:58137?modeTest=1</tspan>
+<tspan x="10" y="3674"></tspan>
+<tspan x="10" y="3690">&gt; server listening on http-port 47536</tspan>
+<tspan x="10" y="3706">[node test-case 4 of 6 passed] - testCase_buildApp_default</tspan>
+<tspan x="10" y="3722"></tspan>
+<tspan x="10" y="3738">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
+<tspan x="10" y="3754">mp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-shader-sc\</tspan>
+<tspan x="10" y="3770">hool_2Ftmp_2Fbuild_2Fapidoc.html.png</tspan>
+<tspan x="10" y="3786"></tspan>
+<tspan x="10" y="3802">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
+<tspan x="10" y="3818">mp/build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-shader-sc\</tspan>
+<tspan x="10" y="3834">hool_2Ftmp_2Fbuild_2Fapidoc.html.html</tspan>
+<tspan x="10" y="3850"></tspan>
+<tspan x="10" y="3866">browserTest - exit-code 0 - /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/apidoc\</tspan>
+<tspan x="10" y="3882">.html</tspan>
+<tspan x="10" y="3898"></tspan>
+<tspan x="10" y="3914">[node test-case 5 of 6 passed] - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="3930"></tspan>
+<tspan x="10" y="3946">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
+<tspan x="10" y="3962">mp/build/screenCapture.npmTest.browser..png</tspan>
+<tspan x="10" y="3978"></tspan>
+<tspan x="10" y="3994">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-shader-school/t\</tspan>
+<tspan x="10" y="4010">mp/build/screenCapture.npmTest.browser..html</tspan>
+<tspan x="10" y="4026"></tspan>
+<tspan x="10" y="4042">browserTest - exit-code 0 - http://127.0.0.1:58137?modeTest=1</tspan>
 <tspan x="10" y="4058"></tspan>
-<tspan x="10" y="4074">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/cover\</tspan>
-<tspan x="10" y="4090">age.npmTest.browser.%2F.json</tspan>
-<tspan x="10" y="4106"></tspan>
+<tspan x="10" y="4074"></tspan>
+<tspan x="10" y="4090">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/cover\</tspan>
+<tspan x="10" y="4106">age.npmTest.browser.%2F.json</tspan>
 <tspan x="10" y="4122"></tspan>
-<tspan x="10" y="4138">browserTest - merging test-report from /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/t\</tspan>
-<tspan x="10" y="4154">est-report.npmTest.browser.%2F.json</tspan>
-<tspan x="10" y="4170"></tspan>
-<tspan x="10" y="4186">[node test-case 6 of 6 passed] - testCase_webpage_default</tspan>
-<tspan x="10" y="4202">[?25h</tspan>
-<tspan x="10" y="4218"></tspan>
-<tspan x="10" y="4234">merging file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/test-report.json to\</tspan>
-<tspan x="10" y="4250"> test-report</tspan>
-<tspan x="10" y="4266"></tspan>
-<tspan x="10" y="4282">-------------------------------------------------------</tspan>
-<tspan x="10" y="4298">| test-report - buildNpmdoc - node - linux v6.10.2 - 2017-04-07T11:58:33.327Z</tspan>
-<tspan x="10" y="4314">|   70598 ms            0 failed        6 passed      |</tspan>
-<tspan x="10" y="4330">-------------------------------------------------------</tspan>
-<tspan x="10" y="4346"></tspan>
-<tspan x="10" y="4362">created test-report file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/test-re\</tspan>
-<tspan x="10" y="4378">port.html</tspan>
-<tspan x="10" y="4394"></tspan>
+<tspan x="10" y="4138"></tspan>
+<tspan x="10" y="4154">browserTest - merging test-report from /home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/t\</tspan>
+<tspan x="10" y="4170">est-report.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="4186"></tspan>
+<tspan x="10" y="4202">[node test-case 6 of 6 passed] - testCase_webpage_default</tspan>
+<tspan x="10" y="4218">[?25h</tspan>
+<tspan x="10" y="4234"></tspan>
+<tspan x="10" y="4250">merging file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/test-report.json to\</tspan>
+<tspan x="10" y="4266"> test-report</tspan>
+<tspan x="10" y="4282"></tspan>
+<tspan x="10" y="4298">-------------------------------------------------------</tspan>
+<tspan x="10" y="4314">| test-report - buildNpmdoc - node - linux v6.10.2 - 2017-04-07T12:01:32.926Z</tspan>
+<tspan x="10" y="4330">|   88350 ms            0 failed        6 passed      |</tspan>
+<tspan x="10" y="4346">-------------------------------------------------------</tspan>
+<tspan x="10" y="4362"></tspan>
+<tspan x="10" y="4378">created test-report file:///home/travis/build/npmdoc/node-npmdoc-shader-school/tmp/build/test-re\</tspan>
+<tspan x="10" y="4394">port.html</tspan>
 <tspan x="10" y="4410"></tspan>
-<tspan x="10" y="4426">npmTest - 0 failed tests</tspan>
-<tspan x="10" y="4442"></tspan>
+<tspan x="10" y="4426"></tspan>
+<tspan x="10" y="4442">npmTest - 0 failed tests</tspan>
 <tspan x="10" y="4458"></tspan>
-<tspan x="10" y="4474">[MODE_BUILD=npmTest] - 2017-04-07T11:59:47Z - EXIT_CODE - 2</tspan>
-<tspan x="10" y="4490"></tspan>
-<tspan x="10" y="4506">npm ERR! Test failed.  See above for more details.</tspan>
+<tspan x="10" y="4474"></tspan>
+<tspan x="10" y="4490">[MODE_BUILD=npmTest] - 2017-04-07T12:03:04Z - EXIT_CODE - 2</tspan>
+<tspan x="10" y="4506"></tspan>
+<tspan x="10" y="4522">npm ERR! Test failed.  See above for more details.</tspan>
 </text>
 </svg>
